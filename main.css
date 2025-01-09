@@ -1,0 +1,88 @@
+.navbar{
+    background-color: rgba(137, 43, 226, 0.507);
+}
+
+.navbar-brand{
+    color: rgba(46, 255, 39, 0.452);
+    font-family: "Archivo Black", serif;
+}
+.navbar-brand:hover{
+    color: rgba(255, 145, 0, 0.89);
+    font-family: "Archivo Black", serif;
+    cursor: pointer;
+}
+
+body{
+    background-image: url("https://images3.alphacoders.com/588/588412.jpg");
+}
+
+.nav-link{
+    color: aliceblue;
+    background-color: rgba(128, 128, 236, 0.432);
+}
+
+.nav-link:hover{
+    color: aliceblue;
+    background-color: rgba(236, 128, 209, 0.432);
+}
+
+
+#topo .nav .nav-link.active{
+    background-color: rgba(236, 128, 209, 0.432);
+}
+
+
+
+.text-cor{
+    color: rgba(230, 231, 255, 0.849);
+    background-color: rgba(214, 127, 255, 0.336);
+}
+
+
+.text-titulo{
+    color: aliceblue;
+    font-family: "Romanesco", serif;
+}
+
+
+.span-cor{
+    color: rgba(207, 4, 173, 0.671);
+}
+.span-cor:hover{
+    color: rgba(0, 0, 0, 0.596);
+}
+
+.img-fix{
+    width: 100%;
+    height: 50%;
+}
+
+#cardápio .nav .nav-link.active{
+    background-color: rgba(236, 128, 209, 0.432);
+
+}
+
+#contato .btn{
+    color: #fff;
+    background-color: rgba(236, 128, 209, 0.432);
+
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
+.text-titulo span{
+    color: rgb(0, 136, 255);
+    font-family: "Romanesco", serif;
+}
+
+.navbar-toggler{
+    background-color: rgb(105, 117, 172);
+}
